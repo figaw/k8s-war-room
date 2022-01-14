@@ -7,7 +7,9 @@ but "obviously" it's not doing "what it's supposed to."
 
 ## Exercises
 
-- flycatcher: troubleshooting a pod
+- flycatcher: troubleshooting a small deployment + service
+- silverbill: troubleshooting a small deployment + service
+- trogon: troubleshooting a small deployment + service
 
 ## Naming
 
