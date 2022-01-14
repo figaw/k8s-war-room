@@ -11,4 +11,6 @@ but "obviously" it's not doing "what it's supposed to."
 
 ## Naming
 
-Folders are named by common birds, as they have no particular ordering.
+Folders are named as
+[common birds](https://en.wikipedia.org/wiki/List_of_birds_by_common_name);
+they have no particular ordering.
